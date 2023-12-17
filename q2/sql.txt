@@ -1,0 +1,3 @@
+1 . SELECT * FROM Student;
+2 . SELECT StudentId, name, city FROM Student WHERE city = 'Kandy';
+3 . UPDATE Student SET city = 'Galle' WHERE StudentId = 4;
